@@ -9,7 +9,7 @@ Visualizar a lista de amigos.
 Sortear um amigo secreto de forma aleatória.
 
 ## Como usar:
-1 - Inserir o nome no campo "Digite seu nome";
+1 - Inserir o nome no campo "Digite um nome";
 ![image](https://github.com/user-attachments/assets/c6a6d679-14f4-428e-bf75-1c27643410de)
 
 2 - Clicar em adicionar ou TAB+ENTER;
@@ -30,9 +30,9 @@ Adicione os nomes dos seus amigos.
 Clique em "Sortear amigo".
 
 ## Tecnologias utilizadas:
-HTML
-CSS
-JavaScript
+* HTML;
+* CSS;
+* JavaScript;
 
 ## Contribuições:
 Contribuições são bem-vindas! Abra um pull request para sugerir melhorias ou reportar bugs.
